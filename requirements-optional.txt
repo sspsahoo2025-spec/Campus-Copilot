@@ -1,0 +1,4 @@
+# Optional: enables semantic (meaning-based) search in the Academic Assistant and
+# Resume Matcher. If this install is skipped (e.g. on a very new Python with no
+# prebuilt wheels yet), the app automatically falls back to keyword search.
+sentence-transformers>=3.0
